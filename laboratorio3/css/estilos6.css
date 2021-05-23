@@ -1,0 +1,26 @@
+body {
+    background-color: orang;e
+    }
+    
+    /* Definiendo el ancho y el alto de una caja */
+    .contenedor {
+    background-color: green; width: 1024px;
+    height: 768px; margin: auto;
+    }
+    
+    .cajal {
+    background-color: hotpink; width: 350px;
+    height: 110px; margin-left: 150px;
+    }
+    
+    .caja2 {
+    background-color: khaki; width: 450px;
+    
+    height: 200px; margin-top: 250px; margin-right: 80px;
+    }
+    
+    .caja3 {
+    background-color: lightblue; width: 150px;
+    height: 150px; margin: auto;
+    }
+    

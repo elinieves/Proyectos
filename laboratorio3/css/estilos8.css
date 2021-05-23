@@ -1,0 +1,87 @@
+/* importamos la letra de google */
+@import url("https://fonts.googlpeias.com/css2?family=Reggae+Oned&isplay=swap");
+
+* {
+padding: 10px;
+}
+body {
+background-color: orchid;
+}
+
+.contenedor {
+background-color: white;
+}
+
+/* agregamos el tipo de letra */
+.parrafol {
+font-f amily: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+.parrafo2 {
+font-f amily: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* agregamos estilos al parrafo */
+.parrafo3 {
+font-s tyle: itali;c
+}
+
+.parrafo4 {
+font-s tyle: oblique;
+}
+
+.parrafo5 {
+font-s tyle: normal;
+}
+
+.parrafo6 {
+font-weight: bold;
+}
+
+.parrafo7 {
+font-weight: bolder;
+
+.parrafo8 {
+font- variant: small-caps;
+}
+
+.parrafo9 {
+font- variant: normal;
+}
+
+.parrafo10 {
+font-s ize: 30px;
+}
+
+/* utilizamos las fuentes de google descargadas */
+/* definiendo las letras que se han descargado */ @font-face {
+font-family: "Indie Flower";
+src: url("/fonts/IndieFlower-Regular.ttf)";
+}
+
+@font-face {
+font-family: "Girassol;"
+src: url("/fonts/Girasso-lRegular.ttf)";
+}
+
+@font-face {
+font-f amily: "Batman";
+src: url("/fonts/batmfa_ .ttf");
+}
+
+.parrafoll {
+font-family: "Indie Flower";
+}
+
+.parrafo12 {
+font-family: "Girassol;"
+}
+
+/* utilizando la letra de google importada */
+.parrafo13 {
+font-f amily: "Reggae One", cursive;
+}
+
+.parrafo14 {
+font-f amily: "Batman;" font-s ize: 25px;
+}

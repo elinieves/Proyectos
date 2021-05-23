@@ -1,0 +1,52 @@
+/* Los vinculos presentan varies estados dentro de los cuales tenemos: link: el vinculo normal
+visited: cuando le has sido visitado hover: mouse esta sobre el vinculo activate: le das clic
+*/
+/* aplicamos colores a los estados del vinculo */ a.vinculol:link {
+    color: chartreus;e
+}
+
+a.vinculol:visited { color: coral;
+}
+
+a.vinculol:hover {
+
+color: darkmag enta;
+}
+
+a.vinculol:active { color: darkturquoise;
+}
+
+/* quitamos las decoracion del texto */ a.vinculo2:link {
+text-decoration: none;
+}
+
+a.vinculo2:visited { text-decoration: none;
+}
+
+a.vinculo2:hover {
+text-decoration: none;
+}
+
+a.vinculo2:active {
+text-decoration: none;
+}
+
+/* generamos un estilo para que el vinculo parezca un baton*/ a.vinculo3:li,nk
+a.vinculo3:visited { background-color: green; color: white;
+padding: 12px; text-align: center;
+text-decoration: none;
+}
+
+a.vinculo3:hov,er a.vinculo3:active {
+background-color: red;
+}
+
+/* generamos un estilo para que el vinculo parezca un baton*/ a.vinculo4:li,nk
+a.vinculo4:visited { background-color: royalblu;e color: white;
+padding: 12px; text-align: center;
+text-decoration: none; border-rad ius: 10px;
+}
+
+a.vinculo4:hov,er a.vinculo4:active {
+background-color: black;
+}

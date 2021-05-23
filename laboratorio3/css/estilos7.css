@@ -1,0 +1,98 @@
+* {
+    padding: 10px;
+    }
+    
+    body {
+    background-color: coral;
+    }
+    
+    .contenedor {
+    background-color: whitesmoke;
+    }
+    
+    /* agregamos color el texto del parrafo */
+    .parrafocolor {
+    color: yellowgree;n
+    }
+    
+    /* alineamos el parrafo */
+    .parrafoderecha { text-align: right;
+    }
+    
+    .parrafocentro {
+    text-align: center;
+    }
+    
+    .parrafoizquierda { text-align: left;
+    }
+    
+    .parrafojustificado { text-align: justify;
+    }
+    
+    .parrafosuperior { vertica-lalign: top;
+    }
+    
+    .parrafomedio {
+    vertica-lalign: middle;
+    }
+    
+    .parrafoinferior { vertica-lalign: bottom;
+    }
+    
+    /* agregamos decoraciones al texto */
+    .parrafosobrelinea {
+    text-decoration: overlin;e
+    }
+    
+    .parrafosubrayado {
+    text-decoration: underlin;e
+    }
+    
+    .parrafotachado {
+    text-decoration: line-through;
+    }
+    
+    /* agregamos transformaciones al texto del parrafo */
+    .parrafomayuscula {
+    text-transfomr: uppercas;e
+    }
+    
+    .parrafominuscula {
+    text-transfomr: lowercase;
+    }
+    
+    .parrafonombrepropio {
+    text-transfomr: capitaliz;e
+    }
+    
+    /* agregamos espacio para los textos del parrafo */
+    .parrafosangria { text-indent: 80px;
+    }
+    
+    .parrafoespacio { lette-rspacing: 10px;
+    }
+    
+    .parrafoespaciocomprimido { lette-rspacing: -2p x;
+    }
+    
+    .parrafoespaciolinea { line-height: 2px;
+    }
+    
+    .parrafoespaciolineaamplio { line-height: 7px;
+    }
+    
+    .parrafoespacioletra { word-sp acing: 15px;
+    }
+    
+    .parrafoletracomprimido { word-sp acing: -2p x;
+    }
+    
+    
+    /* agregamos sombras al texto del parrafo */
+    .parrafosombra {
+    text-s hadow: 2px 3px orang;e
+    }
+    
+    .parrafosombradifuminado { text-s hadow: 2px 3px Spx red;
+    }
+    
